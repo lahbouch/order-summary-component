@@ -139,11 +139,3 @@ a{
     color: var(--Desaturated-blue_hover);
 }
 
-.attribution {
-    margin-top: 10px;
-    font-size: 11px;
-    text-align: center;
-  }
-  .attribution a {
-    color: hsl(228, 45%, 44%);
-  }
